@@ -8,5 +8,7 @@ namespace hwlloWorldapp1
 {
     class Class1
     {
+        public int Empid{ get; set; }
+        public string EmpName { get; set; }
     }
 }
